@@ -1,5 +1,9 @@
 # Ghostbusters
 
+Mitigations for speculation-based cache timing side channel attacks.
+
+In a nutshell, dynamic analysis of binary for finding cache attacks, then sync barrier injections into vulnerable code.
+
 This was a part of my undergraduate project. The files are MAMBO plugins.
 
 ## Dependencies:
